@@ -1,44 +1,56 @@
-## Olá, eu sou o Otávio 👋
+# Otávio Kityro
 
-Desenvolvedor back-end em formação, buscando estágio ou vaga júnior com **Java e Spring Boot**, de preferência em bancos e fintechs.
-
-Estudante de Análise e Desenvolvimento de Sistemas (Anhanguera, 2025–2028), em São Paulo.
-
-## Projetos
-
-- **[Sistema bancário em Java](https://github.com/Kityro/sistema-bancario-java)**: depósito, saque e consulta de saldo no terminal. Usa `BigDecimal` para dinheiro e valida agência e conta. Versão orientada a objetos em andamento.
-- **[Página de apresentação](https://github.com/Kityro/Portfolio2)**: layout feito no Figma e implementado em HTML, CSS e JavaScript.
-
-**Próximo projeto:** API de contas com Spring Boot, PostgreSQL e deploy na AWS.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em back-end com Java e Spring Boot. Busco estágio ou vaga júnior em bancos e fintechs.
 
 ## Tecnologias
 
-**Já usei em projetos:**
+**Usadas**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://skillicons.dev/icons?i=java&theme=dark)
 
-**Em estudo:**
+**Estudos**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Estudos](https://skillicons.dev/icons?i=spring,aws,postgres,docker&theme=dark)
+
+## Objetivo
+
+Atuar como desenvolvedor back-end júnior em instituições financeiras, com foco em regras de negócio, APIs REST e integração com bancos de dados.
+
+## Projetos
+
+**Sistema bancário em Java**
+Aplicação de console para cadastro de titular, depósito, saque e consulta de saldo.
+- Valores monetários com `BigDecimal` e validação de entrada com expressões regulares
+- Regras de negócio no saque: valor positivo e saldo suficiente
+- Em andamento: refatoração para orientação a objetos (classe `Conta`)
+- Próximo passo: API REST com Spring Boot e PostgreSQL
+
+**Página de apresentação**
+Layout desenvolvido no Figma e implementado em HTML, CSS e JavaScript.
+
+**Em planejamento:** API de contas com Spring Boot, PostgreSQL, testes automatizados e deploy na AWS.
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Kityro&show_icons=true&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Kityro&layout=compact&theme=dark)
 
 ## Experiência
 
-Antes de programar, trabalhei na linha de produção da Suzuki, no Japão, com metas rígidas e controle de qualidade zero defeito. Em vendas na Magazine Luiza, bati 105% da meta como líder comercial interino.
+**Linha de produção, Suzuki (Japão)**
+Trabalho com metas rígidas e controle de qualidade com foco em zero defeito.
+
+**Líder comercial interino, Magazine Luiza**
+Atingiu 105% da meta de vendas no período.
+
+## Formação
+
+Análise e Desenvolvimento de Sistemas, Anhanguera (2025–2028)
 
 ## Idiomas
 
 Inglês técnico · Japonês intermediário
 
-## Como eu trabalho
-
-- Só publico o que consigo explicar. Uso IA para estudar e tirar dúvidas, mas entendo o código que mostro.
-- Documento cada projeto no README: o que foi feito, como rodar e o que falta.
-- Prefiro encontrar um problema na minha revisão a deixar para o time encontrar.
-
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/otavio-kityro/)
+· LinkedIn: [linkedin.com/in/otavio-kityro](https://www.linkedin.com/in/otavio-kityro/)
