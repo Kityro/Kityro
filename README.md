@@ -41,4 +41,4 @@ Inglês técnico · Japonês intermediário
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/otavio-kityro/) · [seu e-mail]
+[LinkedIn](https://www.linkedin.com/in/otavio-kityro/)
