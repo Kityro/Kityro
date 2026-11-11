@@ -1,93 +1,44 @@
-<h1 align="center">Olá, eu sou o Otávio</h1>
+## Olá, eu sou o Otávio 👋
 
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas<br>Busco estágio em desenvolvimento back-end<br>Em formação: Java · Spring Boot · AWS</h3>
+Desenvolvedor back-end em formação, buscando estágio ou vaga júnior com **Java e Spring Boot**, de preferência em bancos e fintechs.
 
-<p align="center">
-  Estou construindo minha base em desenvolvimento back-end com Java.<br>
-  Aprendo praticando: cada projeto que publico é algo que eu consigo explicar.<br>
-  Já levei uma página do Figma ao código e agora estou no meu primeiro projeto em Java, evoluindo para orientação a objetos e Spring Boot.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## O que eu busco
-
-Meu primeiro estágio em **desenvolvimento back-end**, em um time onde eu possa aprender com engenheiros mais experientes e entregar valor desde cedo.
-
-## Em 30 segundos
-
-- **Primeiro projeto em Java publicado:** `BigDecimal` para dinheiro, validação com regex e regras de negócio
-- **Do protótipo no Figma ao front-end** em HTML, CSS e JavaScript escritos por mim
-- **Em formação** em Java, Spring Boot e AWS (Rocketseat)
-- Experiência fora de TI com **meta, qualidade e liderança**
-
----
+Estudante de Análise e Desenvolvimento de Sistemas (Anhanguera, 2025–2028), em São Paulo.
 
 ## Projetos
 
-### [Sistema Bancário em Java](https://github.com/Kityro/sistema-bancario-java)
+- **[Sistema bancário em Java](https://github.com/Kityro/sistema-bancario-java)**: depósito, saque e consulta de saldo no terminal. Usa `BigDecimal` para dinheiro e valida agência e conta. Versão orientada a objetos em andamento.
+- **[Página de apresentação](https://github.com/Kityro/Portfolio2)**: layout feito no Figma e implementado em HTML, CSS e JavaScript.
 
-Aplicação de console para cadastro de titular, consulta de saldo, depósito e saque.
+**Próximo projeto:** API de contas com Spring Boot, PostgreSQL e deploy na AWS.
 
-- Uso de **`BigDecimal`** para valores monetários, evitando erros de precisão
-- **Validação de entrada** com expressões regulares (agência com 4 dígitos, conta com 7 dígitos)
-- Regras de negócio no saque (não permite valor acima do saldo nem valor menor ou igual a zero)
+## Tecnologias
 
-**Status:** versão 1, em estilo procedural. **Próximos passos:** orientação a objetos (classe `Conta`) e, depois, API REST com Spring Boot.
+**Já usei em projetos:**
 
-**Stack:** Java
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Código:** [github.com/Kityro/sistema-bancario-java](https://github.com/Kityro/sistema-bancario-java)
+**Em estudo:**
 
----
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### [Página de Apresentação](https://github.com/Kityro/Portfolio2): do Figma ao código
+## Experiência
 
-Meu primeiro projeto. Desenhei no Figma e transformei em página real, com HTML, CSS e JavaScript.
+Antes de programar, trabalhei na linha de produção da Suzuki, no Japão, com metas rígidas e controle de qualidade zero defeito. Em vendas na Magazine Luiza, bati 105% da meta como líder comercial interino.
 
-**Stack:** Figma · HTML · CSS · JavaScript
+## Idiomas
 
-**Código:** [github.com/Kityro/Portfolio2](https://github.com/Kityro/Portfolio2)
-
----
-
-## Em estudo
-
-- **Java:** sintaxe, orientação a objetos e coleções
-- **Spring Boot:** para construir APIs REST em Java
-- **AWS:** introdução a serviços de nuvem
-- **Inglês técnico**
-
-## Ferramentas
-
-`Java` `JavaScript` `HTML5` `CSS3` `Figma` `Git/GitHub`
+Inglês técnico · Japonês intermediário
 
 ## Como eu trabalho
 
-- **Só publico o que consigo explicar:** uso IA como apoio para estudar e tirar dúvidas, mas o código que mostro eu preciso entender.
-- **Aprendo em público:** cada projeto tem README com o que fiz e quais são os próximos passos.
-- **Aponto os próprios defeitos:** prefiro descobrir um problema na minha revisão do que na do time.
+- Só publico o que consigo explicar. Uso IA para estudar e tirar dúvidas, mas entendo o código que mostro.
+- Documento cada projeto no README: o que foi feito, como rodar e o que falta.
+- Prefiro encontrar um problema na minha revisão a deixar para o time encontrar.
 
-## Sobre mim
+## Contato
 
-Curso Análise e Desenvolvimento de Sistemas na Anhanguera (2025–2028). Moro em São Paulo, SP. Idiomas: inglês (técnico) e japonês (intermediário).
-
-Antes de programar, trabalhei na linha de produção da Suzuki, no Japão, com meta rígida e controle de qualidade zero-defeito, e em vendas na Magazine Luiza, onde bati 105% das metas como líder comercial interino. Levo dessas experiências disciplina, atenção a detalhes e responsabilidade por resultado.
-
----
-
-## Vamos conversar?
-
-E-mail: [otavioseto70@gmail.com](mailto:otavioseto70@gmail.com)
-LinkedIn: [linkedin.com/in/otavio-kityro](https://www.linkedin.com/in/otavio-kityro/)
-
-<p align="center"><i>Obrigado por passar por aqui!</i></p>
+[LinkedIn](https://www.linkedin.com/in/otavio-kityro/) · [seu e-mail]
