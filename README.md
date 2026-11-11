@@ -35,10 +35,6 @@ Página pessoal com layout criado no Figma e implementado em HTML, CSS e JavaScr
 
 Repositório: [Portfolio2](https://github.com/Kityro/Portfolio2)
 
-### Em planejamento
-
-API de contas com Spring Boot, PostgreSQL, testes automatizados e deploy na AWS.
-
 ## Experiência
 
 **Linha de produção — Suzuki (Japão)**
